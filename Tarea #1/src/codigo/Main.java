@@ -6,6 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+        
+        System.out.println("Agregamos una linea");
+        
         System.out.println("Ingresa el primer codigo: ");
         String Codigo1 = entrada.nextLine();
         System.out.println("Ingresa el segundo codigo: ");
